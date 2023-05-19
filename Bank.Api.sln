@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank.Api", "Bank.Api\Bank.Api.csproj", "{80C70832-E55F-4DBF-86DE-192E4461F33A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank.Data", "Bank.Data\Bank.Data.csproj", "{5BA101D8-9BFE-498B-967A-81B05D2032BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB1F70BC-9C6A-4BD7-AAB5-DBA88DF4401D}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C70832-E55F-4DBF-86DE-192E4461F33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C70832-E55F-4DBF-86DE-192E4461F33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C70832-E55F-4DBF-86DE-192E4461F33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C70832-E55F-4DBF-86DE-192E4461F33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA101D8-9BFE-498B-967A-81B05D2032BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA101D8-9BFE-498B-967A-81B05D2032BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA101D8-9BFE-498B-967A-81B05D2032BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA101D8-9BFE-498B-967A-81B05D2032BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF91C05-701C-4CEF-9041-10B3922C04D0}
+	EndGlobalSection
+EndGlobal
